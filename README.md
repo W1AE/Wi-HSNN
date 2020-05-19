@@ -7,3 +7,7 @@ Image-based food pattern classification poses new challenges for mainstream comp
 * I. Architecture side -  This research introduces a novel framework named wide hierarchical SNN (Wi-HSNN). The proposed structure is built with En-SNN and Ex-SNN models. First, the Wi-HSNN begins its network with one pair of subnetworks. After the initialization stage, the network itself is gradually be expanded with the add of new subnetwork nodes. In particular, the hidden space is gradually be enriched with the newly added subnets. 
 
 * II. Application side - The key contribution of this paper in terms of its application is the usage of Wi-HSNN, which harnesses multiple high-level abstract features to classify food images. Here, the input concatenated feature is projected into the entrance feature space before being encoded completely to the next level of dimension-reduced latent space. Then, the final category and label of each food pattern is generated from the low-dimensional encoding space. The experimental results show that i) the super-state features with Wi-HSNN provide a stronger performance than single-modality features, and ii) the proposed method outperforms existing state-of-the-art algorithms consistently on almost all food image classification datasets. 
+
+## Learning Structure:
+
+<img src="https://github.com/1027051515/HSNN/raw/master/FIG2.jpg" width="1200" height="300" />
