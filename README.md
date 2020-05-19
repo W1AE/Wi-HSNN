@@ -10,4 +10,4 @@ Image-based food pattern classification poses new challenges for mainstream comp
 
 ## Learning Structure:
 
-<img src="https://github.com/1027051515/HSNN/raw/master/FIG2.jpg" width="1200" height="300" />
+<img src="https://github.com/wandongzhang/Wi-HSNN/blob/master/Fig3_1.pdf" width="1200" height="300" />
