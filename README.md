@@ -14,6 +14,10 @@ Image-based food pattern classification poses new challenges for mainstream comp
 
 <img src="https://github.com/wandongzhang/Wi-HSNN/blob/master/1.jpg" width="1200" height="400" />
 
+## Related Work:
+
+[1] Zhang, W., Wu, J., & Yang, Y. (2020). Wi-HSNN: A Subnetwork-based Encoding Structure for Dimension Reduction and Food Classification via Harnessing Multi-CNN Model High-level Features. Neurocomputing.
+
 ## Downloads:
 ### Scene-15
 * Fine-tuned ResNet-50 features: [Res50_S15](https://drive.google.com/open?id=1Jb_xdmA9StQLUme3LG_e3_EjlNIM3hiH)
